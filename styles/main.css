@@ -107,8 +107,6 @@ a{
 }
 .read_more{
     background: #5863F8;
-  /*  width: 182px;
-    height: 50px;*/
     display: inline-block;
     font-family: 'Poppins';
     font-size: 14px;
@@ -118,14 +116,49 @@ a{
     margin-left: 139px;
     padding-top: 15px;
     padding-bottom: 15px;
-
-
-}/*background-color: #5863F8;
-    font-size: 14px;
+}
+.photoes{
     display: inline-block;
-    color: #ffff;
-    padding-top: 12px;
-    padding-bottom: 12px;
-    padding-left: 35px;
-    padding-right: 35px;
-    margin-top: 45px;*/
+    padding-left: 370px;
+    padding-top: 140px;
+    width: 536px;
+}
+footer{
+    background: black;
+    height: 304px;
+    margin-top: 180px;
+}
+.h4{
+    color: white;
+    font-size: 24px;
+    font-family: 'Poppins';
+    font-weight: bold;
+    padding-left: 135px;
+    padding-top: 50px;
+}
+.pptxt{
+    color: white;
+    font-size: 14px;
+    padding-left: 135px;
+    padding-top: 40px;
+    font-family: 'Poppins';
+    font-weight: bold;
+    width: 828px;
+    height: 83px;
+
+}
+.icon{
+    /*padding-right:px;*/
+    padding-left: 25px;
+}
+.icon_1{
+    margin-left: 135px;  
+}
+.end{
+    padding-left: 135px;
+    padding-top: 14px;
+    font-family: 'Poppins';
+    color: #B1B1B1;
+    padding-top: 15px;
+
+}
