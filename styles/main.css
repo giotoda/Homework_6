@@ -1,0 +1,131 @@
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+.nav-li{
+    display: inline-block;
+   padding-left: 50px;
+   padding-top: 20px;
+   font-family: 'Poppins';
+   font-size: 12px;
+
+}
+.relative{
+    display: inline-block;
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}
+.navigation{
+    display: inline-block;
+    padding-left: 50px;
+    padding-top: 20px;
+    position: absolute;
+    z-index: 1;
+    font-weight: bold;
+
+    
+}
+.side{
+    margin-left: 500px;
+}
+.h2-txt{
+    position: relative;
+     font-family: 'Poppins';
+    color: white;
+    top: 25px;
+    left: 130px;
+    font-size: 14px;
+
+}
+.h1{
+
+    position: relative;
+    color: #ffff;
+    padding-top: 200px;
+    padding-left: 139px;
+    font-size: 62px;
+    width: 590px;
+    height: 160px;
+    font-family: 'Poppins';
+    font-weight: bold;
+
+}
+.p-txt{
+    position: relative;
+    color: white;
+    font-size: 16px;
+    width: 352px;
+    height: 64px;
+    left: 140px;
+    font-family: 'Poppins';
+
+}
+.h3-txt{
+    position: relative;
+    color: #ffff;
+    padding-left: 139px;
+    padding-top: 80px;
+    font-size: 25px;
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+.a-tag{
+    color: black;
+}
+.v2_page{
+    color: black;
+    font-family: 'Poppins';
+    font-size: 42px;
+    margin-top: 200px;
+    width: 374px;
+    height: 115px;
+    padding-left: 139px;
+    font-weight: bold;
+
+}
+.bold-txt{
+    font-family: 'Poppins';
+    font-weight: bold;
+    padding-left: 139px;
+    font-size: 16px;
+    width: 444px;
+    height: 78px;
+
+}
+.light-txt{
+    font-family: 'Poppins';
+    padding-left: 139px;
+    font-size: 14px;
+    width: 444px;
+    height: 84px;
+    margin-top: 30px;
+
+}
+.read_more{
+    background: #5863F8;
+  /*  width: 182px;
+    height: 50px;*/
+    display: inline-block;
+    font-family: 'Poppins';
+    font-size: 14px;
+    padding-right: 35px;
+    padding-left: 35px;
+    margin-top: 50px;
+    margin-left: 139px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+
+}/*background-color: #5863F8;
+    font-size: 14px;
+    display: inline-block;
+    color: #ffff;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-top: 45px;*/
